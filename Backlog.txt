@@ -1,0 +1,19 @@
+* Task Scheduler (Greedy) !
+* BST to Doubly (BST)!
+* Expression add operators (Stack)
+* Sliding puzzle
+* Continuous subarray sum (array) 
+* Range Sum Query 2D - Immutable
+* Koko eating banannas
+* Word break (DP)!
+* Sum root to leaf numbers (DFS) 
+* Min Spanning Tree
+* Contiguous array
+* read 4N or whatever (String) !
+* Critical connections in a network (Graph)!
+* Find missing element in sorted array (Binary Search) !
+* Min depth of leaf node (Tree) !
+* Remove nth node from end of linked list (LL) 
+* Shortest Distance from all buildings (BFS) 
+* Find K closest elements
+* min size subarray sum (done, mult pointers)

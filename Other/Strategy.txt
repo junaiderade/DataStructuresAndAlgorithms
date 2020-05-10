@@ -1,0 +1,7 @@
+1. Understand the problem (restate in your own words)
+2. Clarify the question (ask the interviewer about edge cases, inputs, outputs)
+3. Write out some concrete examples and think about how you'd solve it with your head (not code)
+4. Think about the logical steps (don't think in code yet. Before you start coding you want to have the right solution in concept). Break it down into subproblems! Remember, you're just solving real-life problems with code.
+5. Think about what data structures/algorithms/paradigms you have available (multiple pointers, divide & conquer, DFS, BFS, Binary Search, stack, queue)
+6. Write out a working solution (brute force)
+7. Look back and refactor

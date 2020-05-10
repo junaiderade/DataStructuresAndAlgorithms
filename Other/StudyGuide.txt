@@ -1,0 +1,95 @@
+Data Structures:
+------------------------------------------------
+
+    Built in Data Structures:
+        * Array/Matrix
+        * Set (Hashset)
+        * String 
+        * Map (Hashtable)
+        * Stack
+
+    Data Structures to import:
+        * Heap
+            * MinHeap
+            * MaxHeap
+        * Queue
+        * Dequeue (Double ended queue)
+
+    Data Structures to implement:
+        * Tree
+            * AVL Tree 
+            * BST
+        * Linked List
+        * Graph
+            * Directed
+            * Undirected
+            * Weighted
+            * Unweighted
+        * Trie
+
+Algorithms:
+------------------------------------------------
+
+    Sorting:
+        * Selection Sort 
+        * Bubble Sort 
+        * Insertion Sort 
+        * Quick Sort
+            * Quick Select 
+        * Heap Sort 
+        * Merge Sort 
+        * Radix Sort
+    
+    Data Structure Specific:
+        * BFS (Matrix)
+        * DFS (Matrix)
+        * BFS (Graph)
+        * DFS (Graph)
+        * BFS (Tree)
+        * DFS (Tree)
+            * InOrder, Pre, & Post (recursive & iterative)
+        * Dijkstra's (Graph)
+        * Top Sort (Graph)
+        * Kruskal's Algorithm (Graph)
+        * Union Find (Graph)
+
+    General:
+        * Kadane's Algorithm 
+        * Floyd's Cycle Finding Algorithm
+        * Binary Search
+
+Paradigms:
+------------------------------------------------
+
+    * Dynamic Programming
+        * Min/Max Path
+        * Distict Ways
+        * Strings
+        * Decision Making
+        * Merging Intervals
+    * Multiple Pointers
+    * Sliding Window
+    * Recursion
+    * Backtracking
+    * Divide and Conquer
+    * Branch and Bound
+
+Other:
+------------------------------------------------
+
+    * Converting to/from Binary 
+    * OOP
+    * Proofs
+    * Design
+    * Bit Manipulation
+    * Regex
+
+    Obscure:
+    * Line Sweep
+    * Ordered Map
+    * Suffix Array
+    * Rolling Hash
+    * Rejection Sampling
+
+    
+

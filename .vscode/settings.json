@@ -1,0 +1,19 @@
+{
+    "editor.tokenColorCustomizations": {
+        "comments": "#ffffff"
+    },
+    "better-comments.tags": [
+        {
+          "tag": "Q:",
+          "color": "white",
+          "strikethrough": false,
+          "backgroundColor": "red"
+        },
+        {
+            "tag": "!",
+            "color": "red",
+            "strikethrough": false,
+            "backgroundColor": "yellow"
+          }
+    ]
+}

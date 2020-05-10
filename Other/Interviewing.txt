@@ -1,0 +1,58 @@
+Steps:
+-----
+1) Ask clarifying questions:
+    * can input be negative
+    * can input be empty
+    * is there a time complexity constraint?
+2) Talk outloud about your ideas and thoughts (think about data structures, algorithms, & operations)
+3) Formulate a brute force solution 
+4) Think about edge cases and time complexity
+5) Improvise brute force and ask if it's okay (think about bounds)
+6) Talk about new time complexity
+7) Verify solution
+7.5) Maybe write psuedocode and ask if you can start coding
+8) code * talk as you code
+
+
+Rachel | 4/9
+------------
+* Don't start writing your code too early
+* when you say something isnt gonna work then explain why
+* always be talking and communicating
+* think outside of the box and how you can use different data structures to do your problems
+* write your psuedocode and walk through an example with your psuedocode before you start coding
+* always ask if you can start coding
+* keep asking "does that sound okay to you?"
+* ask more clarifying questions and work out your edge cases before you start coding
+* really...only talk in big N. A mistake you made was you said O(C) which is technically correct but you shouldve said O(N)
+
+Pramp | 4/13 : Sum Lead Values
+------------
+* Ask about restrictions on space or time complexity before you start the problem
+* Write really clear psudocode! and number it!
+* Talk about little things you can do to save complexity    
+    * in his case he talked about finding the shorter array before traversing
+* It is preferable to use a stack over recursion
+    * He talked about how companies love to see you use data structures in problems
+* Think about scale. Ask where this code is gonna be.
+* You made the mistake of coding too soon again
+* Solve like a debugger, when you write your proofs make them legible
+* Make sure to work thru ur psuedocode with an example before you start coding!
+* he evened talked something about async functions...idk if i need to know that
+
+Pramp | 4/13 : Grant
+------------
+* Sometimes they'll ask you to implement APIs in interviews
+* You should be trying to solve the problem in such a time you can do another
+
+Rachel | 4/14
+------------
+* You don't have to ask if you can do better if you're pretty positive its not possible
+    * ex: examine your boundaries, for the group anagrams problem you have to at least look at every letter in every word.
+    you can beat O(M*N) even if that was possible
+* Be more specific when you talk about time complexity and think better about it
+    * For this question you had to sort every word in an array which is O(N*MLogM) not N^2LogM like u thought
+* code while you talk! Sometimes the psuedocode can waste time
+* Think about realistice bounds!
+* In binary search make sure that you do m-1 or m+1, can't stay at M. That could be a never ending loop.
+* When emailing people for a referal be polite ans straightforward

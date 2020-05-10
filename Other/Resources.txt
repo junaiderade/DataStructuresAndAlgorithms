@@ -1,0 +1,12 @@
+- Big O Algorithm Complexity Cheat Sheet
+- Coding Interview University
+- Trekleb JS DS&Algorithms
+- Leetcode
+- Pramp
+- Hackerearth(great article on greedy)
+
+Methodology:
+    Nick White's: https://www.youtube.com/watch?v=nmf-oObylnk&t=15s
+        * did like 8 pramp interviews a day
+        * MIT algorithms course on youtube 
+        * tons of leetcode questions

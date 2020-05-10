@@ -1,0 +1,54 @@
+Binary Search:
+    LMR teaches you boundaries
+        * Left middle right, when you do a question on binary search usually it will have ur left & right become one
+        thereofre you have to think about boundaries
+
+Kadane's:
+    What's bigger? You alone or you and your friend?
+        * in kadane's algorithm the main thing is using math.max(nums[i],nums[i]+currentSum)
+
+Undirected Graph:
+    edgy vertex
+        * in a constructor you have num vertices and the adjList
+        * then you have 2 methods ad veetice and add edge
+
+Graph BFS:
+    Visited Best buy
+        * you start off with a queue with your starting node
+        * then you add the starting to visited
+        * Then you traverse its neighbors and if theyre not in visited you add them to queue
+        * this works because of the nature of the queue
+
+Graph DFS:
+    Visted NCR
+        * same thing as BFS but you use a stack
+
+Matrix traversal:
+    dive 
+        * really matrix traversal is a graph problem but with adj matrix instead of adjList
+        * DFS makes it easier to come to an answer but know BFS 
+        * you really just have to mark nodes as visited and modify thier value
+    breath:
+        * often times this involes making a temp queue and reseting the original one to the temp when its empty
+
+Top Sort:
+    decrement indegrees starting from 0 w/  bfs
+        * loop thru data and set a directed graph of node: children and set indegrees whenever you see a children
+        * Then bfs/dfs thru graph starting from those nodes with indegree of 0 
+
+Find all nodes k distance:
+    * make a map of node to parent with DFS
+    * then start a bfs going outward from the target node
+    * mark seen nodes so you don't go back
+
+Level order traversal:
+    * make queue with root
+    * nested while loop of both r while q 
+    * when q is empty in the nested loop turn q into temp
+
+Binary Search:
+    * You can answer a lot of questions from that find first and last question
+    
+what if u get a haard question and u say u've seen it before......
+
+

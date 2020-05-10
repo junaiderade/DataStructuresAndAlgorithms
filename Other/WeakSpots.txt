@@ -1,0 +1,8 @@
+* DP
+* Graph BFS and DFS
+* Tree DFS and BFS
+* BST
+* Big O (esp on heaps)
+* Binary Search
+* Trie
+* Matrix BFS

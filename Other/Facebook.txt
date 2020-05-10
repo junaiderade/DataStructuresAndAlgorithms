@@ -1,0 +1,63 @@
+Resources:
+------------------------------------------------
+technical screen interview guide: https://scontent.fatl1-1.fna.fbcdn.net/v/t39.2365-6/75102466_573561830053024_996141617616257024_n.pdf?_nc_cat=105&_nc_sid=ad8a9d&_nc_ohc=j6gn6esSq8EAX9EUcGY&_nc_ht=scontent.fatl1-1.fna&oh=46d857ef8e6b82d4744dd0c728007e14&oe=5EB37298
+    * they look for communication, problem solving, coding, and verification
+    * practice coding the way you'll code during your tech screen (2 questions in 35 mins while thinking aloud)
+    * know time and space complexity well 
+    * focus on edge cases
+    * know how things work under the hood (well known library functions)
+    * ask clarifying questions
+    * generally avoid solutions with a lot of edge cases
+    * they have an amazing list of topics and questions on here
+        *Array, String, Linked List, Stacks, Queues, Hash, Heaps, Maps, Sorting, Trees, Graphs,Recursion
+
+Technical Interview prep PDF: https://lookaside.facebookrecruiting.com/portal/interview_prep/download/?file_id=238240697202788
+
+Interview Prep website: https://www.facebookrecruiting.com/portal/coding_practice_question_list
+
+video example: https://vimeo.com/357608978 pass:fbprep
+    * explain what the data structure you'e using is like its not obvious 
+    * ask clarifying questions about the input
+    * talk about the algorithms you can use 
+    * sonja was always talking, like almost no silence
+    * think outloud
+    * before you start coding explain the approach you want to take to your interviewer and get approval
+    * define your classes (ex: a node)
+    * check your edge cases 
+    * check if things are okay with your interviewer before you do them 
+    * keep talking to show ur interviewer your problem solving skill and to have a chance for redirection
+    * you probably wont run code in the oline coding environment cuz u cant ona whiteboard. Syntax isnt impoertant, knowing the feature is.
+    * work through a test case or a few to show the interviewer, and with edge cases
+    * be prepared to discuss time and space complexity
+    * theyre gonna ask you if you can make it more efficient
+    * after coming up with a logical solution ask your interviewer to confirm you're on the right track and if they'd want you to 
+    take a different approach
+    * ask meaningful qs at the end
+    * explain how u want to solve problem to interviewer before
+
+
+practice questions: https://www.facebook.com/careers/life/sample_interview_questions
+
+Cracking the facebook coding interview: https://vimeo.com/157480836/password pass:FB_IPS
+    * technical screen -> 2 coding interviews & 1 design & 1 algo -> 
+    * college students dont get much design questions
+    * you can get asked either 1 or 2 questions
+    * behavioral qs:
+        * prepare a quick walkthru of ur resume (show ur success, prompt them to ask qs, hobbies)
+        * make sure to talk about teamwork
+        * don't get defensive about criticisms
+    * Design Questions
+        * You should approach desing questions with WWYDAW (wouldja): what would you do at work
+        * Scope the problem, define key componenets, identify issues, repair and redesign
+        * ex if u go asked to build the system that shows u amazon's best selling, you need to define best selling means
+    * 
+
+Cracking the facebook Coding Interview: Problem walkthrough
+
+Leetcode Section: https://leetcode.com/explore/interview/card/facebook/
+Process:
+------------------------------------------------
+* technical screen over coderpad and videocam 
+* 45 mins
+* 5 min introduction, 35 mins coding, 5 mins answering your qs
+
